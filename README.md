@@ -28,4 +28,9 @@ THEN the password is either displayed in an alert or written to the page
 
 
 
-# github links
+# github repository link
+
+https://github.com/kusalaindika1/password-genarate
+
+# github deploy link
+https://kusalaindika1.github.io/password-genarate/
